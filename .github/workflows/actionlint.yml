@@ -8,7 +8,7 @@
 # jobs:
 #   actionlint:
 #     # using `main` as the ref will keep your workflow up-to-date
-#     uses: mbaldessari/common-github/helm/workflows/actionlint.yaml@main
+#     uses: mbaldessari/common-github/.github/workflows/actionlint.yaml@main
 
 name: Lint GitHub Actions Workflows
 
